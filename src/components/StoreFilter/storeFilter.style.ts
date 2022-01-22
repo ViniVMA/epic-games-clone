@@ -13,25 +13,28 @@ export const Filter = styled.div`
   font-size: 1.6rem;
   background-color: #121212;
   color: #5b5b5b;
-
+  position: sticky;
+  top: 0;
   a:hover {
     color: #fff;
   }
 
   input {
-    height: 40px;
-    width: 160px;
+    height: 35px;
+    width: 145px;
     border-radius: 30px;
     background-color: #202020;
     outline: none;
     border: none;
-    padding-left: 10px;
+    padding-left: 30px;
     color: #fff;
   }
 
   ul {
     display: flex;
     list-style-type: none;
+    font-family: 800;
+    margin-left: 10px;
 
     li {
       a {

@@ -4,7 +4,7 @@ export const StoreFilter = () => {
   return (
     <S.Filter>
       <S.Grid>
-        <input placeholder="teste"></input>
+        <input placeholder="Search"></input>
         <ul>
           <li>
             <a href="/">Discover</a>

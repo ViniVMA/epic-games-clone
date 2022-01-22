@@ -91,6 +91,10 @@ export const HeaderButtons = styled.ul`
     a {
       background-color: #0078f2;
       padding: 20px;
+
+      :hover {
+        background-color: #007dfc;
+      }
     }
   }
 `;
