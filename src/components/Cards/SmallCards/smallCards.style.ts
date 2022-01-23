@@ -14,6 +14,7 @@ export const CardWrapper = styled.div`
 
   :hover {
     background-color: #2a2a2a;
+    cursor: pointer;
   }
 `;
 

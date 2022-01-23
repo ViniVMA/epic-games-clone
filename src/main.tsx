@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
-import { GlobalStyle } from "./styles/global.style";
-import "swiper/css/bundle";
+
+import { GlobalStyle } from "styles/global.style";
 
 ReactDOM.render(
   <React.StrictMode>

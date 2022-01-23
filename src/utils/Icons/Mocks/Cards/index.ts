@@ -1,4 +1,5 @@
 import firstImage from "utils/Icons/Mocks/Cards/Images/Witcher3.png";
+import nakara from "utils/Icons/Mocks/Cards/Images/Nakara.jpg";
 
 export const TopSellersMock = [
   {
@@ -125,6 +126,25 @@ export const CommingSoonMock = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
     price: "RS$239.99",
     img: firstImage,
+    link: "/",
+  },
+];
+
+export const DiscoverHighlightsMock = [
+  {
+    game: "God Of War",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: nakara,
+    link: "/",
+  },
+  {
+    game: "Grand Theft Auto V",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: nakara,
     link: "/",
   },
 ];
