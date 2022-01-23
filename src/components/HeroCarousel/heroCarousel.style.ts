@@ -1,5 +1,7 @@
 import styled from "styled-components";
 
 export const HeroCarousel = styled.div`
-  /* background-color: red; */
+  .mySwiper {
+    max-width: 1300px;
+  }
 `;

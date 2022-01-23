@@ -148,3 +148,102 @@ export const DiscoverHighlightsMock = [
     link: "/",
   },
 ];
+
+export const GamesOnSaleMock = [
+  {
+    game: "God Of War",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: firstImage,
+    link: "/",
+  },
+  {
+    game: "Grand Theft Auto V",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: firstImage,
+    link: "/",
+  },
+  {
+    game: "Grand Theft Auto V",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: firstImage,
+    link: "/",
+  },
+  {
+    game: "Grand Theft Auto V",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: firstImage,
+    link: "/",
+  },
+  {
+    game: "Grand Theft Auto V",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: firstImage,
+    link: "/",
+  },
+  {
+    game: "Grand Theft Auto V",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: firstImage,
+    link: "/",
+  },
+  {
+    game: "Grand Theft Auto V",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: firstImage,
+    link: "/",
+  },
+  {
+    game: "Grand Theft Auto V",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: firstImage,
+    link: "/",
+  },
+  {
+    game: "Grand Theft Auto V",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: firstImage,
+    link: "/",
+  },
+  {
+    game: "Grand Theft Auto V",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: firstImage,
+    link: "/",
+  },
+  {
+    game: "Grand Theft Auto V",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: firstImage,
+    link: "/",
+  },
+  {
+    game: "Grand Theft Auto V",
+    subtitle:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+    price: "RS$239.99",
+    img: firstImage,
+    link: "/",
+  },
+];
