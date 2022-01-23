@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const GamesOnSale = styled.div`
+export const GamesOnSale = styled.section`
   margin: 0 auto;
   width: 100vw;
   max-width: 1420px;

@@ -1,19 +1,19 @@
-import * as S from "./bigCards.style";
+import * as S from "./freeGames.style";
 
-interface BigCardsProps {
+interface FreeCardsProps {
   img: string;
   game: string;
   price: string;
   subtitle: string;
 }
 
-export const BigCards = ({
+export const FreeCards = ({
   img,
   game,
   price,
   subtitle,
   ...props
-}: BigCardsProps) => {
+}: FreeCardsProps) => {
   return (
     <S.CardWrapper>
       <S.ImageWrapper>

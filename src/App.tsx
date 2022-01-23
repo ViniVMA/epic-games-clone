@@ -4,6 +4,7 @@ import { HeroCarousel } from "components/HeroCarousel";
 import { StoreFilter } from "components/StoreFilter";
 import { DiscoverHighlightsSection } from "pages/DiscoverHilightsSection";
 import { DiscoverSection } from "pages/DiscoverSection";
+import { FreeGamesSection } from "pages/FreeGamesSection";
 import { GamesOnSaleSection } from "pages/GamesOnSaleSection";
 import { AppWrapper, Grid, CenterGrid } from "./styles/app.style";
 
@@ -17,6 +18,7 @@ function App() {
           <HeroCarousel />
           <GamesOnSaleSection />
           <DiscoverHighlightsSection />
+          <FreeGamesSection />
           <DiscoverSection />
         </CenterGrid>
       </Grid>
