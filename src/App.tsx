@@ -1,5 +1,7 @@
 import { Header } from "components/Header";
+import { HeroCarousel } from "components/HeroCarousel";
 import { StoreFilter } from "components/StoreFilter";
+import { DiscoverSection } from "pages/DiscoverSection";
 import { AppWrapper, Grid, CenterGrid } from "./styles/app.style";
 
 function App() {
@@ -9,61 +11,8 @@ function App() {
       <StoreFilter />
       <Grid>
         <CenterGrid>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
-          <h1>Hello world</h1>
+          <HeroCarousel />
+          <DiscoverSection />
         </CenterGrid>
       </Grid>
     </AppWrapper>
