@@ -6,6 +6,7 @@ import { DiscoverHighlightsSection } from "pages/DiscoverHighlightsSection";
 import { DiscoverSection } from "pages/DiscoverSection";
 import { FreeGamesSection } from "pages/FreeGamesSection";
 import { GamesOnSaleSection } from "pages/GamesOnSaleSection";
+import { MostPopularSection } from "pages/MostPopularSection";
 import { RecentlyUpdatedSection } from "pages/RecentlyUpdatedSection";
 
 import { AppWrapper, Grid, CenterGrid } from "./styles/app.style";
@@ -24,6 +25,7 @@ function App() {
           <DiscoverSection />
           <DiscoverHighlightsSecondSection />
           <RecentlyUpdatedSection />
+          <MostPopularSection />
         </CenterGrid>
       </Grid>
     </AppWrapper>
