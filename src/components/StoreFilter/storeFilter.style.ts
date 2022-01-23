@@ -7,6 +7,7 @@ export const Filter = styled.div`
   grid-template-rows: 1fr;
   gap: 0% 0%;
   align-items: center;
+  z-index: 99;
   height: 100px;
   width: 100%;
   align-items: center;

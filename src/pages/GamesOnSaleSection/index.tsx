@@ -1,5 +1,5 @@
-import { GamesOnSale } from "components/CarouselCategories/GamesOnSale";
+import { GamesOnSaleContainer } from "modules/CategoriesCarousel/GamesOnSaleContainer";
 
 export const GamesOnSaleSection = () => {
-  return <GamesOnSale />;
+  return <GamesOnSaleContainer />;
 };
