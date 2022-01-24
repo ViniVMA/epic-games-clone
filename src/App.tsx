@@ -1,3 +1,4 @@
+import { Footer } from "components/Footer";
 import { Header } from "components/Header";
 import { HeroCarousel } from "components/HeroCarousel";
 import { StoreFilter } from "components/StoreFilter";
@@ -28,6 +29,7 @@ function App() {
           <MostPopularSection />
         </CenterGrid>
       </Grid>
+      <Footer />
     </AppWrapper>
   );
 }
