@@ -6,11 +6,6 @@ export const Footer = () => {
     <S.Footer>
       <S.Links>
         <ul>
-          {/* <div className="SocialIcons">
-            <Facebook />
-            <Twitter />
-            <Youtube />
-          </div> */}
           <h2>Resources</h2>
           <li>
             <a href="/">Support-A-Create</a>
