@@ -1,5 +1,5 @@
-import { DiscoverHighlights2Container } from "modules/DiscoverHighlights2Container";
+import { DiscoverHighlightsContainer } from "modules/DiscoverHighlightsContainer";
 
 export const DiscoverHighlightsSection = () => {
-  return <DiscoverHighlights2Container />;
+  return <DiscoverHighlightsContainer />;
 };

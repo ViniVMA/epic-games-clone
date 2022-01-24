@@ -8,6 +8,7 @@ export const CardWrapper = styled.div`
   gap: 0% 0%;
   justify-items: center;
   width: 100%;
+  height: auto;
   max-height: 120px;
   border-radius: 30px;
   padding: 16px 32px;
