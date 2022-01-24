@@ -23,6 +23,10 @@ export const HeroCarousel = styled.div`
     max-width: 1312px;
     max-height: 738px;
     border-radius: 20px;
+
+    @media (max-width: 860px) {
+      max-width: 500px;
+    }
   }
 
   img {
