@@ -1,6 +1,6 @@
 import * as S from "./smallCards.style";
 
-interface SmallCardProps {
+interface SmallCardProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   img: string;
   game: string;
   price: string;
